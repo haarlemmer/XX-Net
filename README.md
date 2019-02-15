@@ -2,7 +2,7 @@
 
 ###### [中文文档](https://github.com/XX-net/XX-Net/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3) &nbsp; &nbsp; &nbsp;[English](https://github.com/XX-net/XX-Net/wiki/English-Home-Page) &nbsp; &nbsp; &nbsp;[فارسی صفحه اصلی](https://github.com/XX-net/XX-Net/wiki/Persian-home-page) 
 
-* 易用的翻墙工具  
+* 易用的翻{和}{谐}墙工具  
 * 包含的GAE_proxy和X-Tunnel：  
 
 
@@ -14,6 +14,11 @@
 | 易用 | 需开启Ipv6，部署服务端，导入证书 | 简单  |
 | 兼容性| 部分网站不支持 | 无问题 |
 | 收费  | 免费 | 付费 |  
+
+
+| demo       | demo2      |
+| ---------- | ---------- |
+| aaa        | aaaaa      |
 
 <br>
 
