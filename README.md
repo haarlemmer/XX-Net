@@ -16,10 +16,6 @@
 | 收费  | 免费 | 付费 |  
 
 
-| demo       | demo2      |
-| ---------- | ---------- |
-| aaa        | aaaaa      |
-
 <br>
 
 ### [__下载页面__](https://github.com/XX-net/XX-Net/blob/master/code/default/download.md)
